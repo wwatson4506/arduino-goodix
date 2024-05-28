@@ -1,4 +1,7 @@
 # arduino-goodix
+
+# New Branch created: "arduino-goodix-Teensy4x-MM".
+
 Arduino goodix touch screen driver
 
 Prototype of arduino-based library for Goodix touchscreen driver chips (tested with GT911 GT9110)
