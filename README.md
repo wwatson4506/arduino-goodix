@@ -1,6 +1,7 @@
 # arduino-goodix
 
-# New Branch created: "arduino-goodix-Teensy4x-MM".
+# New Branch created:
+## Switch to branch "arduino-goodix-Teensy4x-MM" which is GT9271 and Teensy based.
 
 Arduino goodix touch screen driver
 
