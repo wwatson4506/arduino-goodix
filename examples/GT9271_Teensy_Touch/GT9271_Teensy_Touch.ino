@@ -43,8 +43,7 @@ void setup() {
   } else {
     Serial.println("Module Initialize: Succeded");
   }
-  Serial.printf("\nUp to 10 contact points can be setup for use with this driver.\n");
-  Serial.printf("Currently it is setup for 5 in Goodix.h (GOODIX_CONTACT_SIZE 5).\n\n");
+  Serial.printf("\nUp to 10 contact points can be used with this driver.\n");
   Serial.printf("The screen is ready to be touched...\n");
 }
 
