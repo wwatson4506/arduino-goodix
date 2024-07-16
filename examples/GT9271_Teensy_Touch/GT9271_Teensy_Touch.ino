@@ -36,7 +36,7 @@ void setup() {
   // Setup callback.
   touch.setHandler(handleTouch);
   // We are using Wire2 on T41. Set this to your wire usage.
-  touch.setWireObject(&Wire); // Default set to Wire on reset or power up.
+  touch.setWireObject(&Wire2); // Default set to Wire on reset or power up.
   // Start touchscreen.
   if (touch.begin()!=true) {
     Serial.println("! Module Initialize: Failed");
